@@ -1,5 +1,6 @@
 # Methodology
-This section explains the scientific methods used in forensic science, including analysis procedures, validation, limitations, and best practices.
+The Methods module explores **how forensic science is applied** to analyze evidence. 
+These topics build directly on the principles covered in the Foundations module. 
 
 --- 
 ### Topics in this section
