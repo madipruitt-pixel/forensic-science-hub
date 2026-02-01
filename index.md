@@ -13,7 +13,5 @@ How different types of forensic evidence are analyzed and interpreted.
 [Go to Methodology →](methodology/index.md)
 
 ### 🧪 Quizzes
-Practice questions to test understanding of key concepts.    
-
-👉 **Test yourself:**   
-[Quizzes](quizzes/index.md) 
+Practice questions to test understanding of key concepts.      
+[Go to Quizzes →](quizzes/index.md) 
