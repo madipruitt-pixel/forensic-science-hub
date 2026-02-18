@@ -5,8 +5,8 @@ Welcome to the quiz section! Click on the topics below to expand and access the 
 <details>
 <summary>🔹 <strong>Intro to Forensic Science</strong></summary>
 
-1. 📝 [Key Terms & Concepts](quizzes/intro/key_terms.md)
-2. 🧠 [Forensic Psychiatry](quizzes/intro/forensic_psychiatry.md)
+1. 📝 [Key Terms & Concepts](intro/key_terms.md)
+2. 🧠 [Forensic Psychiatry](intro/forensic_psychiatry.md)
 3. 🦷 [Forensic Odontology](quizzes/intro/forensic_odontology.md)
 4. 🏗️ [Forensic Engineering](quizzes/intro/forensic_engineering.md)
 5. 💻 [Digital & Computer Forensics](quizzes/intro/digital_forensics.md)
