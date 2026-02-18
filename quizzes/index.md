@@ -7,34 +7,34 @@ Welcome to the quiz section! Click on the topics below to expand and access the 
 
 1. 📝 [Key Terms & Concepts](intro/key_terms.md)
 2. 🧠 [Forensic Psychiatry](intro/forensic_psychiatry.md)
-3. 🦷 [Forensic Odontology](quizzes/intro/forensic_odontology.md)
-4. 🏗️ [Forensic Engineering](quizzes/intro/forensic_engineering.md)
-5. 💻 [Digital & Computer Forensics](quizzes/intro/digital_forensics.md)
-6.  [Polygraph & Voice Analysis](quizzes/intro/polygraph.md)
+3. 🦷 [Forensic Odontology](intro/forensic_odontology.md)
+4. 🏗️ [Forensic Engineering](intro/forensic_engineering.md)
+5. 💻 [Digital & Computer Forensics](intro/digital_forensics.md)
+6.  [Polygraph & Voice Analysis](intro/polygraph.md)
 
 </details>
 
 <details>
 <summary> Crime Scene Documentation</summary>
 
-7. 🚨 [Documentation Methods](quizzes/intro/documentation_methods.md)
-8. 🚨 [Crime Scene Processing](quizzes/intro/crime_scene_processing.md)
-9. 🚨 [Search Patterns](quizzes/intro/search_patterns.md)
-10. 🚨 [Evidence Collection & DNA](quizzes/intro/evidence_collection_dna.md)
-11. 🚨 [DNA Preservation & Packaging](quizzes/intro/dna_preservation_packaging.md)
-12. 🚨 [Chain of Custody](quizzes/intro/chain_of_custody.md)
-13. 🛡️ [Fourth Amendment Rights & Legal Considerations](quizzes/intro/fourth_amendment.md)
+7. 🚨 [Documentation Methods](intro/documentation_methods.md)
+8. 🚨 [Crime Scene Processing](intro/crime_scene_processing.md)
+9. 🚨 [Search Patterns](intro/search_patterns.md)
+10. 🚨 [Evidence Collection & DNA](intro/evidence_collection_dna.md)
+11. 🚨 [DNA Preservation & Packaging](intro/dna_preservation_packaging.md)
+12. 🚨 [Chain of Custody](intro/chain_of_custody.md)
+13. 🛡️ [Fourth Amendment Rights & Legal Considerations](intro/fourth_amendment.md)
 
 </details>
 
 <details>
 <summary> Evidence Analysis</summary>
      
-15. 🧬 [Physical Evidence: Individual vs Class Characteristics](quizzes/intro/evidence_types.md)
-16. ⚖️ [Corroborative Role of Physical Evidence](quizzes/intro/corroborative_physical_evidence.md)
-17. ⚖️ [Types of Evidence](quizzes/intro/types_of_evidence.md)
-18. ⚖️ [Forensic Databases & Systems](quizzes/intro/forensic_databases.md)
-19. ⚖️ [Forensic Standards & Admissibility](quizzes/intro/frye_daubert.md)
+15. 🧬 [Physical Evidence: Individual vs Class Characteristics](intro/evidence_types.md)
+16. ⚖️ [Corroborative Role of Physical Evidence](intro/corroborative_physical_evidence.md)
+17. ⚖️ [Types of Evidence](intro/types_of_evidence.md)
+18. ⚖️ [Forensic Databases & Systems](intro/forensic_databases.md)
+19. ⚖️ [Forensic Standards & Admissibility](intro/frye_daubert.md)
 
 </details>
 
