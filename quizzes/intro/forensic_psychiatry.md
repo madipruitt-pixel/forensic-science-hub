@@ -61,4 +61,4 @@ D) Classify fingerprints
 ---
 
 ### Navigation
-[⬅ Back to Quiz Index](index.md) | [Next Quiz: Forensic Odontology 🦷](forensic_odontology.md)
+[⬅ Back to Key Terms Quiz](key_terms.md) | [Next Quiz: Forensic Odontology 🦷](forensic_odontology.md)
