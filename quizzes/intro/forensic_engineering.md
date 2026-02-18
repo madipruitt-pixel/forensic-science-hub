@@ -47,4 +47,4 @@ D) Toxicology
 ---
 
 ### Navigation
-[⬅ Back to Quiz Index](index.md) | [Next Quiz: Forensic Computer & Digital Analysis 💻](forensic_digital.md)
+[⬅ Back to Quiz Index](index.md) | [Next Quiz: Forensic Computer & Digital Analysis 💻](digital_forensics.md)
